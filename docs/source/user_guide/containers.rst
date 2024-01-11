@@ -24,3 +24,7 @@ This is subsection 2 of containers.
    .. tab:: Test tab 2
 
       This is test tab 2.
+
+.. code-block::
+
+   Testing copy button
